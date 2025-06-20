@@ -15,9 +15,10 @@ const config = {
   },
 
   url: 'https://walkwizus.github.io',
-  baseUrl: '/',
+  baseUrl: '/magento2-module-meilisearch-docs/',
   organizationName: 'walkwizus',
   projectName: 'magento2-module-meilisearch-docs',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
