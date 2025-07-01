@@ -2,6 +2,7 @@
 slug: /
 sidebar_position: 1
 sidebar_label: Introduction
+label: Introduction
 ---
 
 # Meilisearch / Magento 2 (Adobe Commerce)

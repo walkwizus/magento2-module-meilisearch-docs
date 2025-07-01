@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 sidebar_label: Facet Merchandising
+label: Facet Merchandising
 ---
 
 # 🧩 Facet Merchandising

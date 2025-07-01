@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 sidebar_label: Category Merchandising
+label: Category Merchandising
 ---
 
 # 🗂️ Category Merchandising

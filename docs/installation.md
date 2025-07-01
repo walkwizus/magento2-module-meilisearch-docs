@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: Module installation
+title: Module installation
 ---
 
 # 📦 Installation
@@ -18,6 +19,20 @@ composer require walkwizus/magento2-module-meilisearch
 bin/magento module:enable Walkwizus_MeilisearchBase Walkwizus_MeilisearchCatalog Walkwizus_MeilisearchFrontend Walkwizus_MeilisearchMerchandising
 bin/magento setup:upgrade
 ```
+
+:::info Breeze Compatibility
+If you are using the **Breeze** frontend, a compatibility module is available to ensure seamless integration with Meilisearch.
+
+👉 [Breeze Compatibility Module](https://github.com/walkwizus/magento2-module-breeze-meilisearch)
+
+### Installation
+
+```bash
+composer require walkwizus/magento2-module-meilisearch-breeze
+bin/magento module:enable Walkwizus_MeilisearchBreeze
+bin/magento setup:upgrade
+```
+:::
 
 ## ⚙️ Configuration
 
