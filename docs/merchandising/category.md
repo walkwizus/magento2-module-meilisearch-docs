@@ -4,7 +4,7 @@ sidebar_label: Category Merchandising
 label: Category Merchandising
 ---
 
-# 🗂️ Category Merchandising
+# Category Merchandising
 
 The **Category Merchandising** feature lets you dynamically populate your Magento categories using a powerful rule engine — no more manual product assignments.
 

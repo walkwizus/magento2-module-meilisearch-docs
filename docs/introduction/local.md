@@ -4,7 +4,7 @@ sidebar_label: Install Meilisearch
 title: Install Meilisearch
 ---
 
-## 🚀 Installing Meilisearch (Local Setup)
+## Installing Meilisearch (Local Setup)
 
 There are multiple ways to install Meilisearch. In this documentation, we’ll focus on a **local installation** suited for development environments.
 
@@ -14,7 +14,7 @@ There are multiple ways to install Meilisearch. In this documentation, we’ll f
 - **Self-hosted Meilisearch**: [Self-hosted Installation Guide](https://www.meilisearch.com/docs/learn/self_hosted/getting_started_with_self_hosted_meilisearch)
 ---
 
-### 🐳 Docker Installation
+### Docker Installation
 
 For a quick local setup using Docker, we recommend Mark Shust’s excellent Magento environment:  
 👉 https://github.com/markshust/docker-magento
@@ -40,3 +40,5 @@ meilisearch:
 ```
 
 You can access the Meilisearch dashboard at http://localhost:7700
+
+More information on local installation: [Local installation](https://www.meilisearch.com/docs/learn/self_hosted/install_meilisearch_locally#local-installation) 

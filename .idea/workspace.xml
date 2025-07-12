@@ -7,11 +7,10 @@
     <list default="true" id="5bc9f903-0134-47ca-ad60-ec641e738585" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/installation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/introduction/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/introduction/introduction.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/introduction/local.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/introduction/local.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/merchandising/category.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/merchandising/category.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/merchandising/facets.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/merchandising/facets.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/installation/store-configuration.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/jimmy/src/meilisearch-docs/static/img",
+    "last_opened_file_path": "/Users/jimmy/src/meilisearch-docs/static/img/installation",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,10 +51,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img/installation" />
       <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/static/img/introduction" />
       <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/static/img/installation" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -74,7 +73,8 @@
       <updated>1750414615327</updated>
       <workItem from="1750414616361" duration="9089000" />
       <workItem from="1750434830695" duration="3732000" />
-      <workItem from="1751352859685" duration="1510000" />
+      <workItem from="1751352859685" duration="2117000" />
+      <workItem from="1752296237504" duration="3288000" />
     </task>
     <servers />
   </component>

@@ -4,14 +4,14 @@ sidebar_label: Facet Merchandising
 label: Facet Merchandising
 ---
 
-# 🧩 Facet Merchandising
+# Facet Merchandising
 
 The **Facet Merchandising** feature allows you to customize how layered navigation behaves and looks on your storefront — enhancing the search experience for your customers.
 
 Accessible via the Magento Admin Panel under:  
 **Marketing > Meilisearch Merchandising > Facet Merchandising**
 
-## ⚙️ Configuration Options
+## Configuration Options
 
 For each filterable attribute, you can:
 
@@ -21,7 +21,7 @@ For each filterable attribute, you can:
 
 These settings let you optimize the layered navigation for clarity and usability, especially in large catalogs.
 
-## ✅ Example Use Cases
+## Example Use Cases
 
 - Move the "Brand" facet to the top of the list for better visibility.
 - Enable search within the "Material" facet to help users narrow down textile types.
