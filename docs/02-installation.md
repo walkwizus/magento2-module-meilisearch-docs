@@ -1,5 +1,4 @@
 ---
-sidebar_position: 3
 sidebar_label: Module installation
 title: Module installation
 ---
@@ -16,7 +15,7 @@ title: Module installation
 
 ```bash
 composer require walkwizus/magento2-module-meilisearch
-bin/magento module:enable Walkwizus_MeilisearchBase Walkwizus_MeilisearchCatalog Walkwizus_MeilisearchFrontend Walkwizus_MeilisearchMerchandising
+bin/magento module:enable Walkwizus_MeilisearchBase Walkwizus_MeilisearchCatalog Walkwizus_MeilisearchFrontend Walkwizus_MeilisearchIndices Walkwizus_MeilisearchMerchandising
 bin/magento setup:upgrade
 ```
 
